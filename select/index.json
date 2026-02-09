@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "今夜はブギー・バック (nice vocal / 2024 Remaster)",
+  "base_artist": "Ozawa Kenji",
+  "createdAt": "2026-02-09T18:28:39.630556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今夜はブギー・バック",
+      "artist": "HALCALI",
+      "has_synced": true,
+      "path": "select/01_今夜はブギー・バック_HALCALI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "今夜はブギー・バック",
+      "artist": "Miliyah",
+      "has_synced": false,
+      "path": "select/02_今夜はブギー・バック_Miliyah.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "今夜はブギー・バック",
+      "artist": "Miliyah",
+      "has_synced": true,
+      "path": "select/03_今夜はブギー・バック_Miliyah.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "今夜はブギー・バック",
+      "artist": "HALCALI",
+      "has_synced": true,
+      "path": "select/04_今夜はブギー・バック_HALCALI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "今夜はブギー・バック nice vocal",
+      "artist": "ROTTENGRAFFTY",
+      "has_synced": true,
+      "path": "select/05_今夜はブギー・バック_nice_vocal_ROTTENGRAFFTY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "今夜はブギー・バック nice vocal (feat. 三岳慎之助 & 岡進太郎)",
+      "artist": "三岳慎之助",
+      "has_synced": false,
+      "path": "select/06_今夜はブギー・バック_nice_vocal_(feat._三岳慎之助_&_岡進太郎)_三岳慎之助.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "今夜はブギー・バック",
+      "artist": "加藤 ミリヤ",
+      "has_synced": true,
+      "path": "select/07_今夜はブギー・バック_加藤_ミリヤ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "今夜はブギー・バック ft. Lil' Fang & Yup'in",
+      "artist": "FEMM",
+      "has_synced": false,
+      "path": "select/08_今夜はブギー・バック_ft._Lil'_Fang_&_Yup'in_FEMM.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "今夜はブギー・バック (smooth rap)",
+      "artist": "スチャダラパー featuring 小沢健二",
+      "has_synced": false,
+      "path": "select/09_今夜はブギー・バック_(smooth_rap)_スチャダラパー_featuring_小沢健二.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "今夜はブギー・バック (smooth rap)",
+      "artist": "スチャダラパー Feat. 小沢健二",
+      "has_synced": false,
+      "path": "select/10_今夜はブギー・バック_(smooth_rap)_スチャダラパー_Feat._小沢健二.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今夜はブギー・バック",
+      "artist": "小沢 健二",
+      "has_synced": false,
+      "path": "select/pl_01_今夜はブギー・バック_小沢_健二.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "今夜はブギーバック ～Nice Vocal～",
+      "artist": "小沢 健二",
+      "has_synced": false,
+      "path": "select/pl_02_今夜はブギーバック_~Nice_Vocal~_小沢_健二.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "今夜はブギー・バック (Nice Vocal)",
+      "artist": "小沢 健二",
+      "has_synced": false,
+      "path": "select/pl_03_今夜はブギー・バック_(Nice_Vocal)_小沢_健二.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "今夜はブギーバック/あの大きな心",
+      "artist": "小沢 健二",
+      "has_synced": false,
+      "path": "select/pl_04_今夜はブギーバック_あの大きな心_小沢_健二.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "今夜はブギーバック/あの大きな心",
+      "artist": "小沢 健二",
+      "has_synced": false,
+      "path": "select/pl_05_今夜はブギーバック_あの大きな心_小沢_健二.txt"
+    }
+  ]
+}
